@@ -1,6 +1,11 @@
 //-----------------------------------------------------------------------------
 // Program: EX 3.28: Validating User input
+// Programmer: Joseph Cunningham
+// Class: CsC_20 - C
+// Date: 2/8/19
+//
 // Analysis of examination results.  
+//-----------------------------------------------------------------------------
 
 #include<stdio.h>
 
