@@ -14,7 +14,7 @@ int main(void)
 	int number;  // Number input buy the user
 	int temp;  // Stores a copy of number
 	int count = 0; // Stores the number of 7s
-	bool x;
+	
 
 	// Prompt the user for the number
 
