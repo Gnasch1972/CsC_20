@@ -38,7 +38,7 @@ int main(void)
 	for (i = 1; i <= 5; i++)
 	{
 		worldPop += worldPop * growthRate;
-		printf("%3lu%21.0f\n", i, worldPop);
+		printf("%3lu %21.0f\n", i, worldPop);
 	}
 
 	return 0;
