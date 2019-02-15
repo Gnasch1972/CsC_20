@@ -43,7 +43,7 @@ int main(void)
 		worldPopCurr = worldPopLast + worldPopLast * growthRate;
 		change = worldPopCurr - worldPopLast;
 
-		printf("%3lu%21.0f%21.0f\n", i, worldPopCurr, change);
+		printf("%d%21.0f%21.0f\n", i, worldPopCurr, change);
 	}
 
 	return 0;

@@ -26,7 +26,6 @@ int main(void)
 
 	int prodNum;  // User entered product number
 	int quantSold; // User entered quantity sold
-	int i = 1;  // While loop control
 	float total = 0;  // Total value of goods sold
 
 	// Prompt user for the data

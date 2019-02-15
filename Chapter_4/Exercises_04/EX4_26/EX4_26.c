@@ -14,15 +14,15 @@ int main(void)
 	float pi = 4.0;  //  Value of pi
 	int i;  // For loop control variable
 	int den = 1; // Denominatior for the approxiamtion
-	int intPi; 
+	// int intPi; 
 
 	// Print the header and the first loop iteration
 
-	printf("Term\t\Value\n");
+	printf("Term\tValue\n");
 	printf("-------------------\n");
-	printf("1\t\%.5f\n", pi);
+	printf("1\t%.5f\n", pi);
 
-	for (i = 1; i <= 39; i++)
+	for (i = 1; i <= 399; i++)
 	{
 
 		den += 2;

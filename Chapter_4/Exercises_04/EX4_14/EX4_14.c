@@ -12,7 +12,7 @@
 int main(void)
 {
 
-	int n = 5;  // While loop variable control
+	// int n = 5;  // While loop variable control
 	int fact;  // Store the factorial
 	int i; 
 	int c = 1;  // for loop control variable
@@ -35,7 +35,7 @@ int main(void)
 
 		printf("%d\t%d\n", i, fact);
 
-		n++;
+		//n++;
 		
 	}
 

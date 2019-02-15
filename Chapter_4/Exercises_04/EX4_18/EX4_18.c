@@ -12,7 +12,7 @@
 int main(void)
 {
 	int num1, num2, num3, num4, num5;  // User input numbers
-	int i = 1, j; // Loop variables
+	int j; // Loop variables
 
 					  // Prompt user for input
 

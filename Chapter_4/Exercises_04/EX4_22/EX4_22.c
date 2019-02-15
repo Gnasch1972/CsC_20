@@ -76,7 +76,7 @@ int main(void)
 	num = (4.0 * (double)aCount + 3.0 * (double)bCount + 2.0 * (double)cCount
 		+ 1.0 * (double)dCount);
 
-	den = double(aCount + bCount + cCount + dCount + fCount);
+	den = (double)(aCount + bCount + cCount + dCount + fCount);
 
 	if (den == 0)
 	{

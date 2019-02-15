@@ -13,9 +13,10 @@ int main(void)
 	int i = 1;  // For loop counter
 	int prod = 1;  // Prod of the odd integers
 
-	for (i; i <= 15; i += 2)
+	for (; i <= 15; i += 2)
 	{
 		prod *= i;
+    printf("i = %d, prod = %d\n", i, prod);
 	}
 
 	printf("Sum = %d\n", prod);

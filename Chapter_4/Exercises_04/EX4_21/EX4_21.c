@@ -17,7 +17,7 @@ int main(void)
 					  // Intialization, repetition condition, and increment are all 
 					  // included in the for statement.
 
-	for (counter; counter <= 10; counter++)
+	for (; counter <= 10; counter++)
 	{
 		printf("%d\n", counter);
 	}

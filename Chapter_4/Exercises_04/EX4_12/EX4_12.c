@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	int i = 2;  // For loop counter
+  int i; // loop counter	
 	int sum = 0;  // Sum of the even integers
 
-	for (i; i <= 30; i += 2)
+	for (i=2; i <= 30; i += 2)
 	{
 		sum += i;
 	}
