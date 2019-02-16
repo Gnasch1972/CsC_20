@@ -1,2 +1,16 @@
-This is the main folder for Csc20.  For now it will contain worked examples and problems from the book C How to Program.
+This is the main folder for CsC_20.  CsC_20 is C, C++, Python with Pandas, and
+R.  If a file has the .bak extension it is code I wrote a couple of years back
+and I wanted to rewrite the code and not just look at it. 
+
+Books used:
+C:  C How to Program 6th Edition - Paul Deitel and Harvey Deital (1-14)
+
+C++: C How to Program 6th Edition - Paul Deital and Harvey Deital (14-24)
+
+Python with Pandas: Python with Data Analysis - Wes McKinney - (1-14)
+
+R: R in Action - Robert Kabacoff - (1-23)
+
+Java: Starting Out with Java - Tony Gaddis - (1-15)
+
 
