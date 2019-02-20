@@ -1,6 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-CC	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_25/makefile	/^CC = gcc$/;"	m	language:Make
-CFLAGS	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_25/makefile	/^CFLAGS = -g -Wall -o$/;"	m	language:Make
-find_minimum	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_25/EX5_25.c	/^float find_minimum (float x, float y, float z);$/;"	p	language:C++	file:
-find_minimum	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_25/EX5_25.c	/^float find_minimum(float x, float y, float z)$/;"	f	language:C++
-main	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_25/EX5_25.c	/^int main(void)$/;"	f	language:C++

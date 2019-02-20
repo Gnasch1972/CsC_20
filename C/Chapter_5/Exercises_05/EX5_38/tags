@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+factorial	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_38/EX5_38.c	/^long factorial(long number)$/;"	f	language:C++
+factorial	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_38/EX5_38.c	/^long factorial(long number);  \/\/ Function prototype$/;"	p	language:C++	file:
+main	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_38/EX5_38.c	/^int main(void)$/;"	f	language:C++
+printRecursion	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_38/EX5_38.c	/^void printRecursion(int n)$/;"	f	language:C++
+printRecursion	/home/joseph/CsC_20/C/Chapter_5/Exercises_05/EX5_38/EX5_38.c	/^void printRecursion(int n);$/;"	p	language:C++	file:

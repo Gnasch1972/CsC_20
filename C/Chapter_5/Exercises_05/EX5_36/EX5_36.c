@@ -1,7 +1,8 @@
 //-----------------------------------------------------------------------------
 // Program:  Ex 5.36 - Towers of Hanoi
 // Programming:  Joseph Cunningham
-// Date:  10/23/15
+// Class: CsC_20 - c
+// Date:  2/19/19
 //
 //  This program solves the Tower of Hanoi problem.  It prompts the user for
 //  the number of disks user, the starting peg, the ending peg and the spare 
