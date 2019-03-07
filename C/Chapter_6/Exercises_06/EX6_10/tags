@@ -1,0 +1,14 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+calcEarnings	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void calcEarnings(int sales[], int earning[])$/;"	f	language:C++
+calcEarnings	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void calcEarnings(int sales[], int earning[]);$/;"	p	language:C++	file:
+CC	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/makefile	/^CC = gcc$/;"	m	language:Make
+CFLAGS	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/makefile	/^CFLAGS = -g -Wall -o$/;"	m	language:Make
+EMPLOYEE	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	17;"	d	language:C++	file:
+getSales	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void getSales(int sales[])$/;"	f	language:C++
+getSales	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void getSales(int sales[]);$/;"	p	language:C++	file:
+main	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^int main(void)$/;"	f	language:C++
+printTable	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void printTable(int tiers[]);$/;"	p	language:C++	file:
+printTable	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void printTable(int tier[])$/;"	f	language:C++
+TIER	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	18;"	d	language:C++	file:
+tierSort	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void tierSort(int earning[], int tiers[]);$/;"	p	language:C++	file:
+tierSort	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_10/EX6_10.c	/^void tierSort(int earning[], int tier[])$/;"	f	language:C++
