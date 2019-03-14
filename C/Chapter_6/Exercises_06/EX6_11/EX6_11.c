@@ -8,10 +8,11 @@ int main(void)
 {
     // Delcare and initialize variables
     
-    int a[SIZE] = {2, 4, 6, 8, 10, 12, 37, 45, 68, 89};
+    int a[SIZE] = {2, 6, 4, 8, 10, 12, 37, 45, 89, 68};
     int pass; // number of passes counter
     int i; // comparisons counter
     int hold; // temporay location for holing array members
+    int swap = 0;
 
     printf("Date items in original order\n");
 
@@ -30,8 +31,9 @@ int main(void)
     {
         // Loop to control number of comparisons per pass
         
-        for(i = 0; i < SIZE - 1; i++)
+        for(i = 0; i < SIZE - pass; i++)
         {
+
             // Compare adjacent elements to swap them if first element is
             // greater than second element
             
@@ -40,7 +42,14 @@ int main(void)
                 hold = a[i];
                 a[i] = a[i + 1];
                 a[i + 1] = hold;
+                swap += 1;
+                
             }
+        }
+         
+        if(swap == 0)
+        {
+            break;
         }
     }
 
