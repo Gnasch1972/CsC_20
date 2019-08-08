@@ -1,1 +1,0 @@
-gcc -g -Wall -o EX6_10 EX6_10.c
