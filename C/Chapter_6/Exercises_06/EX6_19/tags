@@ -1,8 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-CC	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/makefile	/^CC = gcc$/;"	m	language:Make
-CFLAGS	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/makefile	/^CFLAGS = -g -Wall -o$/;"	m	language:Make
-main	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/EX6_19.c	/^int main (void)$/;"	f	language:C++
-ROLLS	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/EX6_19.c	19;"	d	language:C++	file:
-SIDE	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/EX6_19.c	17;"	d	language:C++	file:
-SIZE	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/EX6_19.c	18;"	d	language:C++	file:
-TOTAL	/home/joseph/CsC_20/C/Chapter_6/Exercises_06/EX6_19/EX6_19.c	20;"	d	language:C++	file:
